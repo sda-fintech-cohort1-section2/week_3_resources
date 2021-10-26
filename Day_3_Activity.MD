@@ -4,5 +4,8 @@
 
 Example:
 
-- New term: 
+- New term:  
+  Definition 
+
+- New term 2:  
   Definition 

@@ -1,5 +1,5 @@
 
-## In this activity, create a glossary of all new times you've encountered
+## In this activity, create a glossary of all new terms (concepts or words) you've encountered
 
 
 Example:
